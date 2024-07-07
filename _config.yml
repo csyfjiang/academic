@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yufeng Jiang"
+  name             : "Yufeng Jiang (江宇峰)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Keep Learning"
   location         : "Hong Kong, China"
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=0_gONvUAAAAJ"
   email            : "905152222jyf@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yufeng-Jiang-9"
-  uri              : "https://jefferyjiang-yf.github.io/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
