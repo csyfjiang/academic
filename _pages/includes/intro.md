@@ -2,6 +2,10 @@ Welcome to my academic portfolio. I am a dedicated researcher with a deep commit
 
 Currently, I am engaged as a Part-Time Research Assistant (PT RA) at HKMU, where my research focuses on Natural Language Processing (NLP) and Vision-Language Models (VLM). I am particularly fascinated by the potential of foundation models in transforming information retrieval systems, making them more intuitive and efficient.
 
-Through my research, I aim to bridge the gap between theoretical computer science and practical, impactful applications in healthcare and digital information systems. If you have any inquiries or need consultation, please feel free to contact me at 905152222jyf [AT] gamil [DOT] com.
+Through my research, I aim to bridge the gap between theoretical computer science and practical, impactful applications in healthcare and digital information systems. If you have any inquiries or need consultation, please feel free to contact me at <span style="color: blue;">905152222jyf [AT] gamil [DOT] com</span>.
 
 Join me as I explore the cutting-edge of technology and medicine, striving to innovate solutions that improve both diagnostics and accessibility to information.
+
+In [my blog](https://jefferyjiang-yf.github.io/), you will find in-depth discussions and analyses on a broad range of topics including deep learning and medical imaging. I frequently share case studies and insights on how theoretical knowledge can be applied to solve real-world problems in the healthcare sector, particularly in the use of advanced technologies for diagnostic imaging. Additionally, my blog provides updates and commentary on the latest technological trends that are transforming both healthcare and digital information systems.
+
+If you have a strong interest in these topics or specific questions, my blog also features an interactive area where you can post comments or ask questions. I highly encourage any form of interaction and discussion, as it helps us all learn and grow together. I hope my blog becomes a go-to resource for you as we explore the intersections of technology and medicine, collectively pushing forward the boundaries of science and technology.
