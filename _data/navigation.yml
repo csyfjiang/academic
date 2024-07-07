@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "https://jefferyjiang-yf.github.io/yfjiang-acad-homepage.github.io/#-educations"
 
-  - title: "Invited Talks"
-    url: "https://jefferyjiang-yf.github.io/yfjiang-acad-homepage.github.io/#-invited-talks"
+  # - title: "Invited Talks"
+  #   url: "https://jefferyjiang-yf.github.io/yfjiang-acad-homepage.github.io/#-invited-talks"
 
   - title: "Internships"
     url: "https://jefferyjiang-yf.github.io/yfjiang-acad-homepage.github.io/#-internships"

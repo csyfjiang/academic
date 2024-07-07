@@ -13,7 +13,7 @@
 
 **Yufeng Jiang**
 
-[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0_gONvUAAAAJ&citation_for_view=0_gONvUAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='0_gONvUAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**](https://ieeexplore.ieee.org/abstract/document/9778430) <strong><span class='show_paper_citations' data='0_gONvUAAAAJ:u5HHmVD_uO8C'></span></strong>
 - **Research Focus**: Utilizing YOLOv5 and WBF models to accurately detect and monitor the distribution of crown-of-thorns starfish (COTS), crucial for the protection of the Great Barrier Reef.
 - **Key Achievements**:
   - Developed a high-precision detection model verified on KAGGLE, demonstrating significant improvement over traditional methods like Faster R-CNN.
@@ -34,9 +34,8 @@
 
 **Yufeng Jiang**, Yiqing Shen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=0_gONvUAAAAJ&citation_for_view=0_gONvUAAAAJ:qjMakFHDy7sC) 
-
-<strong><span class='show_paper_citations' data='0_gONvUAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://github.com/JefferyJiang-YF/M4oE) <strong><span class='show_paper_citations' data='0_gONvUAAAAJ:qjMakFHDy7sC'></span></strong>
+- **Research Focus**:
 - The Medical Multimodal Mixture of Experts (M4oE) framework, based on SwinUNet architecture, addresses the challenge of multimodal medical image segmentation by employing modality-specific experts and a dynamic gating network for enhanced scalability and interpretability. M4oE not only achieves superior performance across multiple datasets but also significantly reduces computational overhead, making it highly efficient for handling diverse medical imaging data. The full implementation and experiments are detailed on the project's GitHub repository, available at [M4oE GitHub](https://github.com/JefferyJiang-YF/M4oE).
 </div>
 </div>
