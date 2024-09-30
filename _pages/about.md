@@ -26,7 +26,7 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
-
+<!-- git add . && git commit -m "update" && git push -->
 
 
 
