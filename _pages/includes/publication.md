@@ -30,7 +30,7 @@
 </div>
 <div class='paper-box-text' markdown="1">
 
-[M<sup>4</sup>oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts](https://arxiv.org/pdf/2405.09446)
+[M<sup>4</sup>oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts](https://arxiv.org/pdf/2405.09446) <span class="red">Oral</span>
 
 **Yufeng Jiang**, Yiqing Shen
 
