@@ -22,6 +22,8 @@ redirect_from:
 
 {% include_relative includes/publication.md %}
 
+{% include_relative includes/activity.html %}
+
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
