@@ -1,7 +1,7 @@
 # 📖 Educations
 
-- *2024.09 - (now)*, Ph.D. in Computer Science, The Hong Kong Polytechnic University, Hong Kong.
-- *2023.09 - 2024.06*, M.S. in Computer Science, Hong Kong Baptist University, Hong Kong (cGPA 3.79/4, taught in Eng).
+- *2024.09 - (now)*, Ph.D. in AI in Healthcare, The Hong Kong Polytechnic University, Hong Kong.
+- *2023.09 - 2024.06*, M.S. in Computer Science, Hong Kong Baptist University, Hong Kong (cGPA 3.79/4, taught in English).
 - *2019.09 - 2023.06*, B.S. in Computer Science, Hong Kong Metropolitan University, Hong Kong (cGPA 3.54/4, taught in English).
 
 
