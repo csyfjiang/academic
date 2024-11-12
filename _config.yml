@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jeffrey Acadimic Homepage"
 description              : "A personal academic homepage"
-repository               : "https://github.com/JefferyJiang-YF/yfjiang-acad-homepage.github.io"
+repository               : "https://csyfjiang.github.io/academic"
 google_scholar_stats_use_cdn : true
 
 # google analytics
